@@ -8,6 +8,8 @@ dns.adguard.com
 dns.alidns.com
 dns.comss.one
 dns.digitale-gesellschaft.ch
+dns.dns-over-https.com
+dns.dnsoverhttps.net
 dns-doh.dnsforfamily.com
 dns.east.comss.one
 dns-family.adguard.com
@@ -16,15 +18,19 @@ dns.google
 dns.oszx.co
 dns.pub
 dns.quad9.net
+dns.rubyfish.cn
 dns.switch.ch
 dns.twnic.tw
 dns-unfiltered.adguard.com
 doh.360.cn
 doh.applied-privacy.net
+doh.captnemo.in
 doh.centraleu.pi-dns.com
 doh.cleanbrowsing.org
+doh.crypto.sx
 doh-de.blahdns.com
 doh.dns.sb
+doh.dnswarden.com
 doh.eastas.pi-dns.com
 doh.eastau.pi-dns.com
 doh.eastus.pi-dns.com
@@ -36,7 +42,10 @@ doh.libredns.gr
 doh.mullvad.net
 doh.northeu.pi-dns.com
 doh.opendns.com
+doh.powerdns.org
+doh.securedns.eu
 doh.tiarap.org
+doh.tiar.app
 doh.westus.pi-dns.com
 family.canadianshield.cira.ca
 family.cloudflare-dns.com
@@ -48,6 +57,7 @@ mask-h2.icloud.com
 mask.icloud.com
 mozilla.cloudflare-dns.com
 odvr.nic.cz
+one.one.one.one
 private.canadianshield.cira.ca
 protected.canadianshield.cira.ca
 public.dns.iij.jp
@@ -55,4 +65,3 @@ resolver-eu.lelux.fi
 security.cloudflare-dns.com
 security-filter-dns.cleanbrowsing.org
 steering.nextdns.io
-one.one.one.one
