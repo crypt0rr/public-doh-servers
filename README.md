@@ -6,6 +6,13 @@ The list is based on DNS providers their information pages and [AdGuard DNS Prov
 
 There is a little script included that can fetch the newest IPs from the `dns.list` file, you can chose the upstream DNS server where you would like to fetch the IPs from.
 
+## Usage
+
+```bash
+$ ./dns-to-ip.sh 
+Enter DNS server to use: 1.1.1.1
+```
+
 ## License
 
 MIT
