@@ -9,8 +9,7 @@ There is a little script included that can fetch the newest IPs from the `dns.li
 ## Usage
 
 ```bash
-$ ./dns-to-ip.sh 
-Enter DNS server to use: 1.1.1.1
+./dns-to-ip.sh 1.1.1.1
 ```
 
 ## License
